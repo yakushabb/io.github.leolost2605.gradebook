@@ -17,5 +17,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/leolost2605/Gradebook.git
-        tag: v1.1.1
-        commit: 4ba35c23ac0f1c489406cf85987b9ddc429d3a3d
+        tag: v1.1.2
+        commit: d76659080f522bb2fe5f953754d772f9e5a1ede2
